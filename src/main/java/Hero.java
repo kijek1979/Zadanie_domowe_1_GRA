@@ -64,7 +64,7 @@ public abstract class Hero {
         boolean isBoss = false;
         this.attackPoints = 100;
         this.defPoints= 50;
-        this.spawnDate = LocalDateTime.of(2018, 1, 1,0,0);
+        this.spawnDate = LocalDateTime.of(1960, 1, 1,0,0);
 
     }
 
